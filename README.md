@@ -32,7 +32,7 @@ https://algospot.com/judge/problem/read/POLY
 ```
 
 # 구현 코드
-```
+```java
 import java.util.Scanner;
 public class POLY {
 	static int mdr = 10000000;
